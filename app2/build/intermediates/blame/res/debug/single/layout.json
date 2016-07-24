@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/guidry/StudioProjects/Fragmentation2/app2/build/intermediates/res/merged/debug/layout/fragment_overview.xml",
+        "source": "/home/guidry/StudioProjects/Fragmentation2/app2/src/main/res/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/Fragmentation2/app2/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/guidry/StudioProjects/Fragmentation2/app2/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/Fragmentation2/app2/build/intermediates/res/merged/debug/layout/added_fragment.xml",
+        "source": "/home/guidry/StudioProjects/Fragmentation2/app2/src/main/res/layout/added_fragment.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/Fragmentation2/app2/build/intermediates/res/merged/debug/layout/fragment_detail.xml",
+        "source": "/home/guidry/StudioProjects/Fragmentation2/app2/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/home/guidry/StudioProjects/Fragmentation2/app2/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/home/guidry/StudioProjects/Fragmentation2/app2/src/main/res/layout/activity_detail.xml"
+    }
+]

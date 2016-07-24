@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="1428037438423719"
+    token="1966542074061176233" >
+
+    <task
+        name="javac"
+        duration="61" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="21" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/home/guidry/StudioProjects/Fragmentation2/app2/build/outputs/apk/app2-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1428037438423719" >
+        <artifact
+            location="/home/guidry/StudioProjects/Fragmentation2/app2/build/outputs/apk/app2-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
